@@ -1,0 +1,141 @@
+﻿Category-Group,SUBCATEGORIES
+Identity Management,Access Control
+"Governance, Risk, and Compliance",Aerospace & Defense Cybersecurity
+Identity Management,Anti-phishing and Simulated Phishing
+"Governance, Risk, and Compliance",Antivirus
+Application Security,API Security
+Application Security,Application Performance Monitoring and Observability
+Application Security,Application Security Posture Management (ASPM)
+Application Security,Application Security Testing (AST)
+Application Security,Application Security Orchestration and Correlation (ASOC)
+Identity Management,Authentication
+Identity Management,Authentication Policy Management
+Identity Management,Authorization
+Security Analytics,Automated Moving Target Defense (AMTD)
+Identity Management,Automated Penetration Testing
+Security Analytics,Automated Security Control Assessment (ASCA)
+"Governance, Risk, and Compliance",Automotive and Autonomous Vehicle Security
+"Governance, Risk, and Compliance",Bot Detection & Mitigation
+"Governance, Risk, and Compliance",Breach and Attack Simulation (BAS)
+Cloud Security,Cloud Access Security Broker (CASB)
+Cloud Security,Cloud Change Management
+Cloud Security,Cloud Native Application Protection Platforms (CNAPP)
+Cloud Security,Cloud Security
+Cloud Security,Cloud Security Posture Management (CSPM)
+"Governance, Risk, and Compliance",Compliance Management
+"Governance, Risk, and Compliance",Configuration Management
+Security Awareness & Training,Container Security
+Application Security,Content Platforms
+Security Awareness & Training,Continuous Threat Exposure Management (CTEM)
+Application Security,Cross-Site Request Forgery (CSRF) Prevention
+Application Security,Cross-Site Scripting (XSS) Prevention
+Application Security,Cyber Asset Attack Surface Management (CAASM)
+Operations,Cyber Insurance
+Security Awareness & Training,Cyber Range
+Security Awareness & Training,Cyber Risk Quantification
+Security Awareness & Training,Cybersecurity Education & Training
+Network Security,Cybersecurity Mesh Architecture (CSMA)
+Data Security,Data Intelligence
+Data Security,Data Protection
+Data Security,Data Security Posture Management (DSPM)
+Security Analytics,DDoS Mitigation
+Application Security,Deception Platform
+Cloud Security,DevOps Platform
+Cloud Security,DevSecOps Platform
+Cloud Security,Digital Asset Wallet
+Identity Management,Digital Rights Management (DRM)
+Email Security,Email Security Software
+Data Security,Encryption Key Management System (EKMS)
+Endpoint Security,Endpoint Detection and Response (EDR)
+Endpoint Security,Endpoint Protection Platform (EPP)
+Network Security,Enterprise Browser Security
+Email Security,Enterprise Email Security
+Identity Management,Error Handling and Logging
+Identity Management,"Event, Fault And Log Management"
+Security Analytics,Extended Detection and Response (XDR)
+Security Analytics,External Attack Surface Management (EASM)
+Network Security,External Threats
+Network Security,Firewall Management
+Application Security,Firmware Protection
+Security Analytics,Forensic and Incident Response
+Data Security,Fraud and Financial Crime Protection
+Data Security,Fraud Prevention
+"Governance, Risk, and Compliance","Governance, Risk, and Compliance (GRC)"
+Endpoint Security,Hardware Intelligence
+Cloud Security,Host-Based Intrusion Detection Systems (HIDS)
+Security Awareness & Training,Human Risk Management
+Identity Management,Identity and Access Management (IAM)
+Security Analytics,Identity Threat and Detection Response (ITDR)
+Security Analytics,Identity Verification
+Endpoint Security,Incident Response
+Endpoint Security,Industrial Controls Systems (ICS) Security
+IoT & OT Security,Industrial IoT Security
+IoT & OT Security,Infrastructure as Code (IaC) Scanning
+Cloud Security,Infrastructure Automation
+Security Analytics,Infrastructure Monitoring
+Security Analytics,Input Validation
+Security Awareness & Training,Internal Threats
+Network Security,Intrusion Detection and Prevention Systems (IDPS)
+Security Awareness & Training,Intrusion Prevention System (IPS)
+IoT & OT Security,IoT Security
+Security Analytics,Log Management
+Cloud Security,Machine Learning (ML) Security
+Application Security,Malware Protection and Prevention
+MSSP & IT Services,Managed Detection and Response (MDR)
+MSSP & IT Services,Managed Security Services
+Network Security,Microsegmentation
+Cloud Security,Mobile Application Security Testing
+Cloud Security,Mobile Data Protection (MDP)
+Application Security,Mobile Threat Defense
+Cloud Security,Multicloud
+Network Security,Network Access Control (NAC)
+Network Security,Network Analysis and Visibility (NAV)
+Security Analytics,Network Detection and Response (NDR)
+Operations,Network Performance Monitoring (NPM)
+Operations,Network Security Monitoring
+Network Security,Network Segmentation
+Identity Management,Network-Based Intrusion Detection Systems (NIDS)
+IoT & OT Security,Operational Technology (OT) Security
+Security Analytics,Orchestration
+"Governance, Risk, and Compliance",Output Encoding
+Endpoint Security,Password Management
+Data Security,Pattern-Based Strategy
+Data Security,Privacy
+"Governance, Risk, and Compliance",Risk Management & Compliance (Non-core)
+Cloud Security,Runtime Security
+Security Analytics,SaaS Security Posture Management (SSPM)
+Operations,SecOps
+Network Security,Secure Access Service Edge (SASE)
+Cloud Security,Secure Collaboration and Messaging
+Operations,Secure Configuration Management
+MSSP & IT Services,Secure Multiparty Computation (MPC)
+Endpoint Security,Secure Remote Access
+Data Security,Secure Web Gateway (SWG)
+"Governance, Risk, and Compliance",Security Event Manager (SEM)
+Identity Management,Security Information and Event Management (SIEM)
+Security Analytics,Security Orchestration and Automated Response (SOAR)
+Network Security,Security Service Edge (SSE)
+Identity Management,Session Management
+Cloud Security,Software Composition Analysis (SCA)
+IoT & OT Security,Software Supply Chain Security
+"Governance, Risk, and Compliance",Supply Chain Risk (Non-core : Risk management & compliance subcategory)
+Operations,Third-Party Risk Management (TPRM)
+Endpoint Security,Threat Detection and Response (TDR)
+Endpoint Security,"Threat Detection, Investigation and Response (TDIR)"
+Endpoint Security,Unified Threat Management (UTM)
+MSSP & IT Services,Vendor Risk Management
+Network Security,Virtual Private Networks (VPNs)
+Endpoint Security,Vulnerability Assessment
+Endpoint Security,Vulnerability Risk Management (VRM)
+IoT & OT Security,Web Application and API Protection (WAAP)
+Network Security,Wireless Security
+Operations,Zero Trust Edge Solutions (ZTE)
+Operations,Zero Trust Network Access (ZTNA)
+Identity Management,Cloud Infrastructure Entitlements Management (CIEM)
+Identity Management,Privileged Access Management (PAM)
+Data Security,Data Integration
+Data Security,Data Fabric Architecture
+Endpoint Security,Cyber Asset Attack Surface Management (CAASM)
+Application Security,Static Application Security Testing (SAST)
+Application Security,Dynamic Application Security Testing (DAST)
+Application Security,Software Composition Analysis (SCA)
