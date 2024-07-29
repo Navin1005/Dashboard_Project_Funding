@@ -6,6 +6,8 @@ import json
 import os
 
 app = Flask(__name__)
+import os
+
 app.config['SECRET_KEY'] = 'b0351af9384a13850c7c8570fa38f0cf'
 app.config['SQLALCHEMY_DATABASE_URI'] = r'sqlite:///C:/Users/Ch Naveen/Risk_Insights_Media/Dashboard_Project_Funding/users.db'
 db = SQLAlchemy(app)
