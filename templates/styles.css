@@ -2,9 +2,11 @@ body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
     text-align: center;
+    margin: 0;
+    padding: 0;
 }
 
-h1 {
+h1, h2 {
     color: #333;
 }
 
@@ -22,39 +24,30 @@ button:hover {
     background-color: #0056b3;
 }
 
-.container {
+.container, .admin-container {
     display: flex;
     justify-content: center;
     margin: 20px;
 }
 
-.sidebar {
+.sidebar, .admin-sidebar {
     flex: 1;
     background-color: #333;
     color: white;
     padding: 10px;
     border-radius: 5px;
+    margin-right: 20px;
 }
 
-.sidebar h2 {
+.sidebar h2, .admin-sidebar h2 {
     color: white;
 }
 
-.main-content {
-    flex: 2;
+.main-content, .admin-main-content {
+    flex: 3;
     background-color: white;
     padding: 20px;
     border-radius: 5px;
-    margin-left: 20px;
-}
-
-.subcategory {
-    padding: 5px;
-    margin: 5px;
-    background-color: #e7e7e7;
-    border: 1px solid #ccc;
-    border-radius: 3px;
-    cursor: pointer;
 }
 
 ul {
@@ -69,4 +62,85 @@ li {
     color: white;
     cursor: pointer;
     border-radius: 3px;
+}
+
+li.active {
+    background-color: #007BFF;
+}
+
+li.has-items {
+    background-color: #28a745;
+}
+
+.button {
+    display: block;
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+    margin: 10px 0;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.button:hover {
+    background-color: #0056b3;
+}
+
+.status {
+    display: inline-block;
+    padding: 5px 10px;
+    border-radius: 5px;
+    color: white;
+}
+
+.status.completed {
+    background-color: #28a745;
+}
+
+.status.in-progress {
+    background-color: #ffc107;
+}
+
+.status.not-started {
+    background-color: #dc3545;
+}
+
+.admin-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.admin-table th, .admin-table td {
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: left;
+}
+
+.admin-table th {
+    background-color: #333;
+    color: white;
+}
+
+.admin-table tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.delete-button {
+    background-color: #dc3545;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+
+.delete-button:hover {
+    background-color: #c82333;
+}
+
+.admin-sidebar .button {
+    margin: 10px 0;
 }

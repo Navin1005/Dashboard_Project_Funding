@@ -6,6 +6,78 @@
     <title>Beautiful Dashboard</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <style>
+        .container {
+            display: flex;
+            height: 100vh;
+        }
+        .sidebar {
+            width: 250px;
+            background-color: #343a40;
+            padding: 1rem;
+            color: #fff;
+        }
+        .sidebar h2 {
+            margin-top: 0;
+        }
+        .sidebar ul {
+            list-style: none;
+            padding: 0;
+        }
+        .sidebar ul li {
+            padding: 0.5rem;
+            cursor: pointer;
+        }
+        .sidebar ul li:hover, .sidebar ul li.active {
+            background-color: #495057;
+        }
+        .sidebar button, .sidebar .logout-button {
+            width: 100%;
+            padding: 0.5rem;
+            margin: 0.5rem 0;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        .sidebar button {
+            background-color: #28a745;
+            color: #fff;
+        }
+        .sidebar button:hover {
+            background-color: #218838;
+        }
+        .sidebar .logout-button {
+            background-color: #dc3545;
+            color: #fff;
+        }
+        .sidebar .logout-button:hover {
+            background-color: #c82333;
+        }
+        .main-content {
+            flex: 1;
+            padding: 2rem;
+            background-color: #f8f9fa;
+        }
+        .main-content h2 {
+            color: #343a40;
+        }
+        .main-content #subcategories {
+            display: flex;
+            flex-wrap: wrap;
+        }
+        .main-content #subcategories .subcategory {
+            background-color: #fff;
+            padding: 1rem;
+            margin: 0.5rem;
+            border-radius: 4px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            cursor: pointer;
+            flex: 1 1 calc(25% - 1rem);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+    </style>
 </head>
 <body>
     <div class="container">
